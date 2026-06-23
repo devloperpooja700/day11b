@@ -1,0 +1,9 @@
+git init
+git status
+
+git config user.name "pooja"
+git config user.email "poojamaddhesiya710@gmail.com"
+
+git remote add origin https://github.com/devloperpooja700/day11b.git
+
+git config --list
