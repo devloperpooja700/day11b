@@ -6,4 +6,11 @@ git config user.email "poojamaddhesiya710@gmail.com"
 
 git remote add origin https://github.com/devloperpooja700/day11b.git
 
-git config --list 
+git config --list
+get revert commit_id
+git rm filename
+gitmrevert --continue
+
+commit pe click kroge
+
+git push
